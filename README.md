@@ -19,7 +19,7 @@ For now I'm just learning, but I want to know developing from different angles.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 For more information about me, check out links below. Feel free to contact me. I am always here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![LinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/kryzhanivskaolena)
-[![Telegram](https://img.shields.io/badge/My-Telegram-blue)](https://t.me/rrrrrratata)
+[![Telegram](https://img.shields.io/badge/My-Telegram-blue)](https://t.me/respons91)
 [![Gmail](https://img.shields.io/badge/My-Gmail-red)](mailto:kruzhanivska.olena212@gmail.com)
 <br>
 
